@@ -1,3 +1,3 @@
-# advanced Typescript concepts
+# Advanced Typescript concepts
 
 1. Lookup types
