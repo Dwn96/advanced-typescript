@@ -1,6 +1,6 @@
 /**
  * https://www.typescriptlang.org/docs/handbook/2/mapped-types.html
- * We use mapped types to base a type off another types 
+ * We use mapped types to base a type off another type 
  *  
  * */ 
 
